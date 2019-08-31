@@ -2,57 +2,18 @@
 layout: default
 ---
 
-<div class="sqs-block image-block sqs-block-image sqs-text-ready">
-  <div class="sqs-block-content">
-    <div
-      class="image-block-outer-wrapper image-block-v2 design-layout-collage combination-animation-none individual-animation-none individual-text-animation-none image-position-left sqs-text-ready"
-    >
-      <div class="intrinsic">
-        <div class="image-inset content-fit">
-          <img
-            style="left: 0px; top: 0.25px; width: 500px; height: 466.5px; position: absolute;"
-            class="loaded"
-            src="/images/portrait.jpg"
-          />
-
-          <div class="image-overlay"></div>
-        </div>
-      </div>
-
-      <div class="image-card-wrapper" data-width-ratio="">
-        <div class="image-card sqs-dynamic-text-container">
-          <div class="image-title-wrapper">
-            <div class="image-title sqs-dynamic-text" style="font-size: 27.7%;">
-              <p>
-                Clarissa Cortland is a post-doctoral researcher at
-                <a href="https://www.insead.edu/" target="_blank">INSEAD</a>.
-              </p>
-            </div>
-          </div>
-
-          <div class="image-subtitle-wrapper">
-            <div
-              class="image-subtitle sqs-dynamic-text"
-              style="font-size: 27.7%;"
-            >
-              {{ content }}
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+<section class="home--about">
+  <div class="home--portrait">
+    <img src="/images/portrait.jpg" />
   </div>
-</div>
-<div class="sqs-block button-block sqs-block-button">
-  <div class="sqs-block-content">
-    <div class="sqs-block-button-container--center">
-      <a
-        href="/files/Clarissa-Cortland-CV.pdf"
-        class="sqs-block-button-element--medium sqs-block-button-element"
-        target="_blank"
-        data-initialized="true"
-        >DOWNLOAD CV</a
-      >
-    </div>
+
+  <div class="home--bio">
+    {{ content }}
   </div>
-</div>
+</section>
+
+<section class="home--cv">
+  <a target="_blank" href="/files/Clarissa-Cortland-CV.pdf">
+    Download CV
+  </a>
+</section>
