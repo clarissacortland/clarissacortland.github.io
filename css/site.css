@@ -8,6 +8,67 @@ body {
   line-height: 1.6em;
 }
 
+h2 {
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(212, 212, 212, 0.5);
+}
+
+h3 {
+  text-align: center;
+}
+
+h3,
+h4 {
+  color: rgba(28, 32, 24, 0.7);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid rgba(212, 212, 212, 0.5);
+}
+
+a {
+  color: rgba(142, 173, 103, 0.7);
+  text-decoration: none;
+}
+
+input,
+textarea {
+  border: 1px solid rgba(212, 212, 212, 0.5);
+  border-radius: 2px;
+  padding: 0.5em;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 20em;
+}
+
+textarea {
+  box-sizing: border-box;
+  height: 8em;
+  width: 100%;
+}
+
+label {
+  display: block;
+  margin: 0.5em 0;
+}
+
+label span {
+  display: inline-block;
+  width: 10em;
+}
+
 header {
   display: flex;
 }

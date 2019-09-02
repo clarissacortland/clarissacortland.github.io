@@ -9,6 +9,11 @@ header {
   position: relative;
 }
 
+h2 {
+  font-size: 36px;
+  padding-bottom: 1em;
+}
+
 .logo img {
   max-height: 100px;
 }
