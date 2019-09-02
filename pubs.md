@@ -31,9 +31,9 @@ Lick, D. J., **Cortland, C. I.**, Shapiro, J. R., Stroessner, S. J., & Johnson, 
 
 ---
 
-<h3 style="text-align: center; margin-bottom: 4em;">Writings for Non-Academic Audiences</h3>
+### Writings for Non-Academic Audiences
 
-### INSEAD Knowledge
+#### INSEAD Knowledge
 
 [Freeing Women and Men from Gender Stereotypes](https://knowledge.insead.edu/blog/insead-blog/freeing-women-and-men-from-gender-stereotypes-11136) (March 8, 2019)
 
@@ -49,6 +49,6 @@ Lick, D. J., **Cortland, C. I.**, Shapiro, J. R., Stroessner, S. J., & Johnson, 
 
 [Promoting Gender Balance Wisely](https://knowledge.insead.edu/leadership-organisations/promoting-gender-balance-wisely-8546) (March 8, 2018)
 
-### behavioral scientist
+#### Behavioral Scientist
 
 [Looking for Similarities Can Bring Marginalized Groups Together](https://behavioralscientist.org/looking-similarities-can-bring-marginalized-groups-together/) (August 14, 2017)

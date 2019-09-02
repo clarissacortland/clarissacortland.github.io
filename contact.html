@@ -3,98 +3,55 @@ layout: contact
 title: Contact
 ---
 
-<div class="form-wrapper">
-  <div class="form-inner-wrapper">
-    <form
-      id="contact"
-      method="POST"
-      action="https://formspree.io/clarissa.cortland@insead.edu"
-      autocomplete="on"
-    >
-      <div class="field-list clear">
-        <fieldset class="form-item fields name required">
-          <div class="title">Name <span class="required">*</span></div>
-          <legend>Name</legend>
+<form
+  id="contact"
+  method="POST"
+  action="https://formspree.io/clarissa.cortland@insead.edu"
+  autocomplete="on"
+>
+  <label>
+    <span>First Name</span>
+    <input
+      name="fname"
+      x-autocompletetype="given-name"
+      type="text"
+      spellcheck="false"
+    />
+  </label>
+  <label class="caption"
+    ><span>Last Name</span>
+    <input
+      name="lname"
+      x-autocompletetype="surname"
+      type="text"
+      spellcheck="false"
+    />
+  </label>
 
-          <div class="field first-name">
-            <label class="caption"
-              ><input
-                class="field-element field-control"
-                name="fname"
-                x-autocompletetype="given-name"
-                type="text"
-                spellcheck="false"
-                data-title="First"
-              />
-              First Name</label
-            >
-          </div>
-          <div class="field last-name">
-            <label class="caption"
-              ><input
-                class="field-element field-control"
-                name="lname"
-                x-autocompletetype="surname"
-                type="text"
-                spellcheck="false"
-                data-title="Last"
-              />
-              Last Name</label
-            >
-          </div>
-        </fieldset>
+  <label
+    ><span>Email Address</span>
 
-        <div class="form-item field email required">
-          <label class="title"
-            >Email Address <span class="required">*</span></label
-          >
+    <input name="email" type="email" autocomplete="email" spellcheck="false" />
+  </label>
 
-          <input
-            class="field-element"
-            name="email"
-            type="email"
-            autocomplete="email"
-            spellcheck="false"
-          />
-        </div>
+  <label
+    ><span>Subject</span>
 
-        <div class="form-item field text required">
-          <label class="title" for="subject"
-            >Subject <span class="required">*</span></label
-          >
+    <input type="text" name="subject" />
+  </label>
 
-          <input class="field-element text" type="text" name="subject" />
-        </div>
+  <label for="message">Message</label>
 
-        <div class="form-item field textarea required">
-          <label class="title" for="message"
-            >Message <span class="required">*</span></label
-          >
+  <textarea name="message"></textarea>
 
-          <textarea name="message" class="field-element "></textarea>
-        </div>
-      </div>
-
-      <div class="form-button-wrapper form-button-wrapper--align-center">
-        <input
-          class="button sqs-system-button sqs-editable-button"
-          type="submit"
-          value="Submit"
-        />
-      </div>
-
-      <div class="hidden form-submission-text">Thank you!</div>
-
-      <div class="hidden form-submission-html" data-submission-html=""></div>
-    </form>
-    <script>
-      var _0x6a19 = [
-        "\x61\x63\x74\x69\x6F\x6E",
-        "\x66\x6F\x72\x6D\x23\x63\x6F\x6E\x74\x61\x63\x74",
-        "\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72",
-        "\x68\x74\x74\x70\x73\x3A\x2F\x2F\x66\x6F\x72\x6D\x73\x70\x72\x65\x65\x2E\x69\x6F\x2F\x63\x6C\x61\x72\x69\x73\x73\x61\x2E\x63\x6F\x72\x74\x6C\x61\x6E\x64\x40\x69\x6E\x73\x65\x61\x64\x2E\x65\x64\x75"
-      ];
-      document[_0x6a19[2]](_0x6a19[1])[_0x6a19[0]] = _0x6a19[3];
-    </script>
-  </div>
-</div>
+  <input type="submit" value="Submit" />
+</form>
+<script>
+  var _0x6a19 = [
+    "\x61\x63\x74\x69\x6F\x6E",
+    "\x66\x6F\x72\x6D\x23\x63\x6F\x6E\x74\x61\x63\x74",
+    "\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72",
+    "\x68\x74\x74\x70\x73\x3A\x2F\x2F\x66\x6F\x72\x6D\x73\x70\x72\x65\x65\x2E\x69\x6F\x2F\x63\x6C\x61\x72\x69\x73\x73\x61\x2E\x63\x6F\x72\x74\x6C\x61\x6E\x64\x40\x69\x6E\x73\x65\x61\x64\x2E\x65\x64\x75"
+  ];
+  document[_0x6a19[2]](_0x6a19[1])[_0x6a19[0]] = _0x6a19[3];
+</script>
