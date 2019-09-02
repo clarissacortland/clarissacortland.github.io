@@ -1,43 +1,27 @@
+@import url("/css/mobile.css") (max-width: 812px);
+@import url("/css/desktop.css") (min-width: 812.01px);
+
 body {
   color: rgba(28, 32, 24, 0.8);
   font-family: "Helvetica Neue", Arial, sans-serif;
   font-weight: 400;
   line-height: 1.6em;
-  margin: 0 auto;
-  max-width: 1000px;
-  padding: 90px 0;
 }
 
 header {
   display: flex;
-  justify-content: space-between;
-  position: relative;
 }
 
 .logo {
   display: block;
 }
 
-.logo img {
-  max-height: 100px;
-}
-
 nav ul {
-  display: flex;
-  font-size: 14px;
   letter-spacing: 0.05em;
   line-height: 1.2em;
   list-style: none;
   margin: 0;
-}
-
-nav li {
-  margin-left: 30px;
-  padding: 36px 0;
-}
-
-nav li:first-child {
-  margin-left: 0;
+  padding: 0;
 }
 
 nav a {
@@ -45,45 +29,20 @@ nav a {
   text-decoration: none;
 }
 
-main {
-  margin: 100px 0;
-}
-
-.home--about {
-  display: flex;
-}
-
 .home--portrait {
   display: block;
-}
-
-.home--portrait,
-.home--bio {
-  flex-basis: 50%;
-  flex-grow: 1;
-  flex-shrink: 0;
-  position: relative;
-}
-
-.home--portrait img {
-  position: absolute;
-  width: 100%;
+  width: 80%;
 }
 
 .home--bio {
   background-color: black;
-  box-sizing: border-box;
   color: white;
-  margin-top: 5%;
-  padding-top: 50px;
-  padding: 5%;
 }
 
 .home--bio h1 {
   font-weight: 700;
   font-style: normal;
   line-height: 1.2em;
-  font-size: 40px;
   margin: 0;
 }
 

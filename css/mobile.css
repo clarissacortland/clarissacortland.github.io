@@ -1,0 +1,78 @@
+html,
+body {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  order: 2;
+}
+
+.logo img {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+nav {
+  order: 1;
+  font-size: 16px;
+  color: #1c2018;
+}
+
+.nav--toggle {
+  display: block;
+  text-align: center;
+  margin: 0 1em 1em;
+  padding: 1em 0;
+}
+
+.nav--toggle,
+nav ul {
+  border-bottom: 1px solid rgba(212, 212, 212, 0.5);
+}
+
+nav ul {
+  text-align: center;
+}
+
+nav li {
+  margin: 1em 0;
+}
+
+main {
+  margin-bottom: 5vh;
+}
+
+.home--about {
+  z-index: 1;
+}
+
+.home--portrait {
+  margin: 0 15% 0 5%;
+  z-index: 1;
+}
+
+.home--portrait img {
+  max-width: 100%;
+}
+
+.home--bio {
+  margin: 0 5% -10vh 15%;
+  padding: 1em;
+  position: relative;
+  top: -10vh;
+  z-index: 2;
+}
+
+.home--bio h1 {
+  font-size: 24px;
+}
+
+nav ul {
+  display: block;
+}
