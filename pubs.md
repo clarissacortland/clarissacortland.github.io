@@ -5,9 +5,9 @@ layout: publications
 
 ### Peer-Reviewed Publications
 
-**Cortland, C. I.**, & Kinias, Z. (2019). Stereotype threat and women’s work satisfaction: The importance of role models. _APA Archives of Scientific Psychology, Special Section: Advancing Gender Equality in the Workplace, 7_(1): 81-89.
+**Cortland, C. I.**, & Kinias, Z. (2019). Stereotype threat and women’s work satisfaction: The importance of role models. _APA Archives of Scientific Psychology, Special Section: Advancing Gender Equality in the Workplace, 7_(1): 81-89. \[[PDF](/files/Cortland-Kinias-2019.pdf)\]
 
-**Cortland, C. I.**, Shapiro, J. R., Guzman, I. Y., & Ray, L. A. (2019). The ironic effects of stigmatizing smoking: Combining stereotype threat theory with behavioral pharmacology. _Addiction, 114_(10): 1842-1848.
+**Cortland, C. I.**, Shapiro, J. R., Guzman, I. Y., & Ray, L. A. (2019). The ironic effects of stigmatizing smoking: Combining stereotype threat theory with behavioral pharmacology. _Addiction, 114_(10): 1842-1848. \[[PDF](/files/Cortland-Shapiro-Guzman-Ray-2019.pdf)\]
 
 **Cortland, C. I.**, Craig, M. A., Shapiro, J. R., Richeson, J. A., Neel, R., & Goldstein, N. J. (2017). Solidarity through shared disadvantage: Highlighting shared experiences of discrimination improves relations between stigmatized groups. _Journal of Personality and Social Psychology, 113_(4): 547-567. \[[PDF](/files/Cortland-Craig-2017.pdf)\]
 
