@@ -5,9 +5,9 @@ layout: publications
 
 ### Peer-Reviewed Publications
 
-**Cortland, C. I.**, & Kinias, Z. (in press). Stereotype threat and women’s work satisfaction: The importance of role models. _APA Archives of Scientific Psychology_.
+**Cortland, C. I.**, & Kinias, Z. (2019). Stereotype threat and women’s work satisfaction: The importance of role models. _APA Archives of Scientific Psychology, Special Section: Advancing Gender Equality in the Workplace, 7_(1): 81-89.
 
-**Cortland, C. I.**, Shapiro, J. R., Guzman, I. Y., & Ray, L. A. (in press). The ironic effects of stigmatizing smoking: Combining stereotype threat theory with behavioral pharmacology. _Addiction._
+**Cortland, C. I.**, Shapiro, J. R., Guzman, I. Y., & Ray, L. A. (2019). The ironic effects of stigmatizing smoking: Combining stereotype threat theory with behavioral pharmacology. _Addiction, 114_(10): 1842-1848.
 
 **Cortland, C. I.**, Craig, M. A., Shapiro, J. R., Richeson, J. A., Neel, R., & Goldstein, N. J. (2017). Solidarity through shared disadvantage: Highlighting shared experiences of discrimination improves relations between stigmatized groups. _Journal of Personality and Social Psychology, 113_(4): 547-567. \[[PDF](/files/Cortland-Craig-2017.pdf)\]
 
@@ -33,7 +33,25 @@ Lick, D. J., **Cortland, C. I.**, Shapiro, J. R., Stroessner, S. J., & Johnson, 
 
 ### Writings for Non-Academic Audiences
 
+#### Wall Street Journal
+
+[Shaming Smokers Can Backfire](https://www.wsj.com/articles/shaming-smokers-can-backfire-11591640792) (June 8, 2020)
+
+#### UCLA Anderson Review
+
+[Being Stigmatized by Stereotypes Feeds Anxiety and Depletes Self-Control](https://www.anderson.ucla.edu/faculty-and-research/anderson-review/smoking-stereotype?fbclid=IwAR2QXfkgbRQiiPoAK0_SZg28fqAtWlocVVC_lZtifDyf9-V2gBNlzd_mzUM) (November 13, 2019)
+
+#### INSEAD Hoffmann Global Institute for Business and Society
+
+[Global Impact Survey Shows Transformative Potential of INSEAD Community](https://www.insead.edu/centres/the-hoffmann-global-institute-for-business-and-society/stories/global-impact-survey-shows-transformative-potential-of-insead-community) (June 12, 2019)
+
 #### INSEAD Knowledge
+
+[Building Gender Balance Against the Odds](https://knowledge.insead.edu/leadership-organisations/building-gender-balance-against-the-odds-11456) (May 3, 2019)
+
+[What Makes for Inclusive Working Cultures?](https://knowledge.insead.edu/leadership-organisations/what-makes-for-inclusive-working-cultures-11351) (April 15, 2019)
+
+[Creating More Economic Equality for Women](https://knowledge.insead.edu/blog/insead-blog/creating-more-economic-equality-for-women-11256) (March 29, 2019)
 
 [Freeing Women and Men from Gender Stereotypes](https://knowledge.insead.edu/blog/insead-blog/freeing-women-and-men-from-gender-stereotypes-11136) (March 8, 2019)
 
