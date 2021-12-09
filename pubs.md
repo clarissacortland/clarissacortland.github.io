@@ -37,7 +37,7 @@ Lick, D. J., **Cortland, C. I.**, Shapiro, J. R., Stroessner, S. J., & Johnson, 
 
 #### Business Graduates Association
 
-[Addressing Hidden Identity Threats in the Diverse Workplace](https://businessgraduatesassociation.com/addressing-hidden-identity-threats-in-the-diverse- workplace/) (July 5, 2021)
+[Addressing Hidden Identity Threats in the Diverse Workplace](https://businessgraduatesassociation.com/addressing-hidden-identity-threats-in-the-diverse-workplace/) (July 5, 2021)
 
 #### Wall Street Journal
 
