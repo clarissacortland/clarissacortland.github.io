@@ -35,6 +35,10 @@ Lick, D. J., **Cortland, C. I.**, Shapiro, J. R., Stroessner, S. J., & Johnson, 
 
 ### Writings for Non-Academic Audiences
 
+#### Business Graduates Association
+
+[Addressing Hidden Identity Threats in the Diverse Workplace](https://businessgraduatesassociation.com/addressing-hidden-identity-threats-in-the-diverse- workplace/) (July 5, 2021)
+
 #### Wall Street Journal
 
 [Shaming Smokers Can Backfire](https://www.wsj.com/articles/shaming-smokers-can-backfire-11591640792) (June 8, 2020)
