@@ -5,6 +5,8 @@ layout: publications
 
 ### Peer-Reviewed Publications
 
+Adbi, A., Chatterjee, C., **Cortland, C. I.**, Kinias, Z., & Singh, J. (2021). Women's disempowerment and preferences for skin lightening products that reinforce colorism: Experimental evidence from India. _Psychology of Women Quarterly, 45_(2): 178-193. \[[PDF](/files/Adbi_Chatterjee_Cortland_Kinias_Singh_PWQ_2021.pdf)\]
+
 **Cortland, C. I.**, & Kinias, Z. (2019). Stereotype threat and women’s work satisfaction: The importance of role models. _APA Archives of Scientific Psychology, Special Section: Advancing Gender Equality in the Workplace, 7_(1): 81-89. \[[PDF](/files/Cortland-Kinias-2019.pdf)\]
 
 **Cortland, C. I.**, Shapiro, J. R., Guzman, I. Y., & Ray, L. A. (2019). The ironic effects of stigmatizing smoking: Combining stereotype threat theory with behavioral pharmacology. _Addiction, 114_(10): 1842-1848. \[[PDF](/files/Cortland-Shapiro-Guzman-Ray-2019.pdf)\]
