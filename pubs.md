@@ -5,7 +5,7 @@ layout: publications
 
 ### Peer-Reviewed Publications
 
-**Cortland, C. I.**, & Kinias, Z. (2023). Adding fuel to the collective fire: Stereotype threat, solidarity, and support for change. _Personality and Social Psychology Bulletin_, accepted. \[PDF] (/files/Cortlan_Kinias_PSPB_2023.pdf)\]
+**Cortland, C. I.**, & Kinias, Z. (2023). Adding fuel to the collective fire: Stereotype threat, solidarity, and support for change. _Personality and Social Psychology Bulletin_, accepted. \[PDF] (/files/Cortland_Kinias_PSPB_2023.pdf)\]
 
 Adbi, A., Chatterjee, C., **Cortland, C. I.**, Kinias, Z., & Singh, J. (2021). Women's disempowerment and preferences for skin lightening products that reinforce colorism: Experimental evidence from India. _Psychology of Women Quarterly, 45_(2): 178-193. \[[PDF](/files/Adbi_Chatterjee_Cortland_Kinias_Singh_PWQ_2021.pdf)\]
 
