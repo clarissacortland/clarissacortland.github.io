@@ -21,11 +21,7 @@ Lick, D. J., **Cortland, C. I.**, Johnson, K. L. (2016). The pupils are the wind
 
 ### Manuscripts Under Review / In Prep
 
-**Cortland, C. I.**, & Kinias, Z. (under review). Stereotype threat’s silver lining: From solidarity to social change.
-
-Adbi, A., Chatterjee, C., **Cortland, C. I.**, Kinias, Z., & Singh, J. (under review). Women’s disempowerment and preference for risky cosmetic products that reinforce colorism: Experimental evidence from India.
-
-Lick, D. J., **Cortland, C. I.**, Shapiro, J. R., Stroessner, S. J., & Johnson, K. L. (invited revision at _Journal of Experimental Social Psychology_). Behavioral inhibition and response bias in sexual orientation categorizations.
+Brands, R., Ozgumus, E., Rattan, A, Huang, L, & **Cortland, C. I.** (under review). When form leads to function: Social network closure, social identity threat, and persistence among women entrepreneurs.
 
 **Cortland, C. I.**, & Kinias, Z. (in prep). Identifying as social impact leaders motivates men and women to support organizational gender balance initiatives.
 
